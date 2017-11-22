@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class App {
  
     public static void main(String[] args) throws FileNotFoundException {
-        //String fileName = "C:/Users/John/Desktop/example.txt";
+        //String fileName = "C:/Users/AlokRaj/Desktop/example.txt";
         String fileName = "example.txt";
          
         File textFile = new File(fileName);
