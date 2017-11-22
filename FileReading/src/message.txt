@@ -1,0 +1,11 @@
+3
+Build visual components of data analytics and reporting. 
+We sit on a lot of data and mine it in a variety of ways. 
+You can build a thing or two on top of this and tell us
+ how to make sense of it while presenting it to our customers.
+Build services that can help us scale.
+5
+ We are optimization freaks. If you are one too, 
+you'd love to work with us. 
+We believe and practice SOA and we expect you to be our flag bearer. Did you ask why SOA?
+ Here's why - http://wp.me/p20VHj-fI
